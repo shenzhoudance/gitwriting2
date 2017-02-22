@@ -13,7 +13,7 @@
   * [2.4 Pull Request 功能 ](chapter 2/2.4.md)
 * chapter 3 使用 Github 托管电子书
   * [3.1 安装 Git](3.1-git.md)
-  * 3.2 创建 Github 账号
+  * [3.2 创建 Github 账号](3.2-github.md)
   * 3.3 公钥认证管理
   * 3.4 创建并关联电子书项目
   * 3.5 对电子书进行版本管理
