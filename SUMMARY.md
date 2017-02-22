@@ -10,8 +10,7 @@
   * [2.1 探索 Github 仓库](chapter 2/2.1.md)
   * [2.2 探索 Issues](chapter 2/2.2.md)
   * [2.3 探索 Wiki](chapter 2/2.3.md)
-  * [2.4 Pull Request 功能](chapter 2/2.4.md)
-  * [2.5 Pull Request](chapter 2/2.5.md)
+  * [2.4 Pull Request 功能 ](chapter 2/2.4.md)
 * chapter 3 使用 Github 托管电子书
   * 3.1 安装 Git
   * 3.2 创建 Github 账号
