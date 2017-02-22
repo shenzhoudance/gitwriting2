@@ -8,8 +8,8 @@
   * [1.3 Github 的工作原理](/chapter 1/1.3.md)
 * chapter 2 Github 的主要功能
   * [2.1 探索 Github 仓库](chapter 2/2.1.md)
-  * [2.2 Organization](chapter 2/2.2.md)
-  * [2.3 Issue](chapter 2/2.3.md)
+  * [2.2 探索 Issues](chapter 2/2.2.md)
+  * [2.3 探索 Wiki](chapter 2/2.3.md)
   * [2.4 Wiki](chapter 2/2.4.md)
   * [2.5 Pull Request](chapter 2/2.5.md)
 * chapter 3 使用 Github 托管电子书
