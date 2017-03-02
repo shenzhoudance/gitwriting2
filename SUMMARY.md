@@ -11,6 +11,7 @@
   * [1.1 Github 简介](chapter 1/1.1.md)
   * [1.2 Git、Github 与 GitBook ](chapter 1/1.2.md)
   * [1.3 Github 的工作原理](/chapter 1/1.3.md)
+  - 1.4 Github 的版本库管理
 * [chapter 2 Github 的主要功能](chapter 2/README.md)
   * [2.1 探索 Github 仓库](chapter 2/2.1.md)
   * [2.2 探索 Issues](chapter 2/2.2.md)
